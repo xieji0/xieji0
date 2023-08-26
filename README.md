@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xieji0
+- 👀 I’m interested in developing software/hardware.
+- 🌱 I’m currently studying computer engineering.
